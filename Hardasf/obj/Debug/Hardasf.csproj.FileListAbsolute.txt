@@ -1,0 +1,11 @@
+C:\Users\tapic\source\repos\Hardasf\Hardasf\bin\Debug\Hardasf.exe.config
+C:\Users\tapic\source\repos\Hardasf\Hardasf\bin\Debug\Hardasf.exe
+C:\Users\tapic\source\repos\Hardasf\Hardasf\bin\Debug\Hardasf.pdb
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.csproj.AssemblyReference.cache
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.csproj.SuggestedBindingRedirects.cache
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.Form1.resources
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.Properties.Resources.resources
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.csproj.GenerateResource.cache
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.csproj.CoreCompileInputs.cache
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.exe
+C:\Users\tapic\source\repos\Hardasf\Hardasf\obj\Debug\Hardasf.pdb
